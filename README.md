@@ -1,0 +1,2 @@
+# Bashidooo
+My personal repository.
