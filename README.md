@@ -59,6 +59,3 @@ My personal repository.
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/Bashidoo /Bashidoo /output/snake.svg" alt="Snake animation" />
-
-###
